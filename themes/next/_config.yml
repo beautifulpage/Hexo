@@ -181,8 +181,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -195,14 +195,14 @@ sidebar:
   #display: remove
 
   # Sidebar offset from top menubar in pixels.
-  offset: 12
-  offset_float: 0
+  # offset: 12
+  # offset_float: 0
 
   # Back to top in sidebar
-  b2t: false
+  # b2t: false
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  # scrollpercent: false
 
 
 # Blog rolls
@@ -471,7 +471,7 @@ exturl: false
 # Motion 设置「动画效果
 #开启动画效果
 use_motion: true 
-#use_motion: false # 关闭动画效果
+#use_motion: false
 
 # Fancybox
 fancybox: true
